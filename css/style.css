@@ -107,9 +107,10 @@ body{
 background-color:gold;
 border-color:5px solid red;
 border-radius: 10px;
-width: 30%;
+width: 20%;
 height: 40px;
-text-indent: 40px;
+text-indent: 25px;
+padding-bottom: 10px;
   }
 
   .nav-trigger svg{
@@ -362,8 +363,8 @@ section{
     padding:4rem 0;
 }
 section.top-products{
-    /* background:var(--light); */
-background-image: url("../images/back.jpg");
+  background-color:white;
+/* background-image: url("../images/back.jpg"); */
 background-repeat: no-repeat;
 background-size: 100% 100%;
 /* width: 100%;
